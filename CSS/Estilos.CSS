@@ -31,3 +31,22 @@
     color: white;
     height: 100vh;
 }
+
+.baner1
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    transform: translateX(10%);
+    margin-top: -50%;
+}
+
+.baner
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 80%;
+    background-color: black;
+    border: 10px solid violet;
+}
