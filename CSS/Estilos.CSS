@@ -50,3 +50,37 @@
     background-color: black;
     border: 10px solid violet;
 }
+
+nav
+{
+    line-height: 22%;
+    word-spacing: 100%;
+    text-indent: 30pt;
+}
+
+.nombrec1
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 60%;
+    transform: translateX(50%);
+    margin-top: -37%;
+}
+
+.nombrec
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 90%;
+    font-size: 125%;
+    font-family: fantasy;
+    border: 4px solid black;
+    background-color: darkcyan;
+}
+
+a
+{
+    color: black;
+}
