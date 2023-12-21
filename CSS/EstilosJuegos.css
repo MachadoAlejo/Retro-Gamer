@@ -24,7 +24,10 @@ body
 
 iframe
 {
+
+    display: flex;
     width: 60%;
+    height: 55vh;
 
 }
 
@@ -33,7 +36,7 @@ iframe
     border: solid 4px violet;
     width: 60%;
     transform: translateX(33%);
-    height: 54.5vh;
+    height: 55vh;
     background-image: url(https://www.diez.hn/binrepository/MedidaDiez.1943_DZ1004110_MG99281338.jpg);
 
 }
