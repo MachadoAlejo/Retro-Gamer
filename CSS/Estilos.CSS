@@ -1,7 +1,33 @@
-body
+.sidebar
 {
-    background-color: grey;
-    margin: 0%;
+    width: 250px;
+    background-color: black;
+    color: white;
+}
+
+.sidebar ul
+{
+    list-style: none;
     padding: 0;
-    display: flex;
+}
+
+
+.sidebar li
+{
+    padding: 10px;
+}
+
+
+.sidebar a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.sidebar
+{
+    width: 250px;
+    background-image: url(/Pag/img/8bits.jpg);
+    color: white;
+    height: 100vh;
 }
