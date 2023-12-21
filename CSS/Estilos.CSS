@@ -84,3 +84,42 @@ a
 {
     color: black;
 }
+
+.juegos
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.col
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.card
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    border: 4px solid black;
+}
+
+.card-img-top
+{
+    border: 3px solid cyan;
+
+}
+
+.card-title
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
