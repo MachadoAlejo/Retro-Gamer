@@ -1,0 +1,39 @@
+body
+{
+    background-size: 117%;
+    background-image: url(https://www.wallpapertip.com/wmimgs/94-940820_arcade-wallpaper.jpg);   
+}
+
+.baner1
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.baner
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 80%;
+    background-color: black;
+    border: 10px solid violet;
+}
+
+iframe
+{
+    width: 60%;
+
+}
+
+.game
+{
+    border: solid 4px violet;
+    width: 60%;
+    transform: translateX(33%);
+    height: 54.5vh;
+    background-image: url(https://www.diez.hn/binrepository/MedidaDiez.1943_DZ1004110_MG99281338.jpg);
+
+}
